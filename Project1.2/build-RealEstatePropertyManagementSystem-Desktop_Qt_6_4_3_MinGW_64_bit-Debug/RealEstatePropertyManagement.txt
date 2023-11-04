@@ -1,0 +1,18 @@
+
+
+============================= ALL PROPERTIES =============================
+
+ID : 2
+Address : Madina
+Number of Rooms : 31
+Floor No. : 23
+Price in $ : 61,000
+Contact No. : +321456***********
+
+ID : 3
+Address : Mecca
+Number of Rooms : 50
+Floor No. : 25
+Price in $ : 1,00,000
+Contact No. : +321456*************
+
